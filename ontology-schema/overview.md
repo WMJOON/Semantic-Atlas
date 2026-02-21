@@ -1,9 +1,5 @@
----
-notion: > 
-    [Semantic Atlas Ontology](https://www.notion.so/Semantic-Atlas-Ontology-2f45de36a790805a9f95fdc9873d97c5?source%3Dcopy_link)
----
-
 # Semantic Atlas Ontology
+[Notion URL](notion:%20%3E%20%0A%20%20%20%20%5BSemantic%20Atlas%20Ontology%5D%28https%3A//www.notion.so/Semantic-Atlas-Ontology-2f45de36a790805a9f95fdc9873d97c5?source%3Dcopy_link%29)
 
 벤치마크 온톨로지입니다.
 
