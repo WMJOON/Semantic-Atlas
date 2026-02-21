@@ -1,9 +1,5 @@
 # Semantic Atlas Ontology
 
-다중 선택: 벤치마크, 온톨로지
-생성자: Woody Woo
-하위 항목: (:Work) Entity (https://www.notion.so/Work-Entity-2f45de36a79080cfa547c9fda512259b?pvs=21), (:Purpose) Entity (https://www.notion.so/Purpose-Entity-2f45de36a79080678fd7e92912ac9be5?pvs=21)
-
 벤치마크 온톨로지입니다.
 
 ```sql
